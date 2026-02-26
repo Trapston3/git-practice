@@ -1,2 +1,2 @@
-2026-02-26: Project initialised at version 1.0.0
-
+2026-02-26_1138: Project initialised at version 1.0.0
+2026-02-26_1140: New features added to README, version 1.0.1
