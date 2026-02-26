@@ -1,0 +1,3 @@
+Mastering DevOps Practices and system architecture, and learning how to use Git and Github properly.
+Docker containerization and Kubernetes for DevOps
+Jenkins for testing and version control
